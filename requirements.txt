@@ -1,0 +1,8 @@
+transformers
+nltk
+pyvis
+networkx
+matplotlib
+spacy
+wikipedia-api
+torch
